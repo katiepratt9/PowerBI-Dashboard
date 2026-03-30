@@ -15,7 +15,7 @@ An interactive Power BI dashboard analysing average retail prices for 155 common
 
 ---
 
-## 📁 Dataset
+## Dataset
 | Field | Details |
 |---|---|
 | Source | [USDA ERS — data.gov](https://catalog.data.gov/dataset/fruit-and-vegetable-prices) |
